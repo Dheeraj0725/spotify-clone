@@ -6,8 +6,8 @@ The application is built using ReactJS. For creation/ cloning of this project pl
 
 Spotify Api has been used with user profile access and playlist access.
 
-Spotify documentation: https://developer.spotify.com/documentation/web-api
-React documentation: https://react.dev/
+- Spotify documentation: https://developer.spotify.com/documentation/web-api
+- React documentation: https://react.dev/
 
 # Getting Started with Create React App
 
