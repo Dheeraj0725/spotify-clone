@@ -1,3 +1,14 @@
+# Spotify Clone
+
+### This application is a clone of popular music streaming service Spotify Inc.
+
+The application is built using ReactJS. For creation/ cloning of this project please read the insturctions in the next section.
+
+Spotify Api has been used with user profile access and playlist access.
+
+Spotify documentation: https://developer.spotify.com/documentation/web-api
+React documentation: https://react.dev/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
